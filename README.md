@@ -1,6 +1,6 @@
 ## Heyy! I'm Devindi Abeykoon 👋
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7dc4bcd1-9400-4a82-85c8-b83788cbcdfa)
 
 - 🎓 I’m a graduate of Software Engineering with a second-class lower division from the University of Plymouth.
 - 🌱 I’m currently learning Angular to improve my development skills.
