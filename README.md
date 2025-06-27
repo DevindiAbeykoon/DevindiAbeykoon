@@ -1,6 +1,6 @@
 ## Heyy! I'm Devindi Abeykoon 👋
 
-![image]https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU0bnpvcjc4eHFhd2I5eTdyYnJ6MWg4dW0ydzJqcHhyMmIzcXhxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif
+![image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU0bnpvcjc4eHFhd2I5eTdyYnJ6MWg4dW0ydzJqcHhyMmIzcXhxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 - 🎓 I’m a graduate of Software Engineering with a second-class lower division from the University of Plymouth.
 - 🌱 I’m currently learning Angular to improve my development skills.
