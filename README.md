@@ -1,6 +1,6 @@
 ## Heyy! I'm Devindi Abeykoon 👋
 
-![image]("C:\Users\Devindi\Downloads\assets_task_01jyrjp766e6z9vgxrzs3zww81_1751024449_img_1.webp")
+![image](assets/logo.png)
 
 - 🎓 I’m a graduate of Software Engineering with a second-class lower division from the University of Plymouth.
 - 🌱 I’m currently learning Angular to improve my development skills.
